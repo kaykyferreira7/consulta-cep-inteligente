@@ -1,5 +1,10 @@
 # Consulta Inteligente de CEP
 
+## Deploy Online
+https://consulta-cep-inteligente.vercel.app
+
+Aplicação web profissional para consulta...
+
 Aplicação web profissional para consulta de endereços brasileiros a partir do CEP, utilizando a API pública [ViaCEP](https://viacep.com.br).
 
 ## Tecnologias
